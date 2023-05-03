@@ -1,0 +1,41 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Trophy Stout",
+            "description":"Toast to holidays with Trophy Stout!, This holiday season celebrate with a glass of Trophy stout. Our dark, full bodied beer is the perfect way to spread cheers and enjoy the festive season. With it's smooth flavor, Trophy stout is sure to be a hit at any holiday gathering. Invite your friends and family to share a pint of Trophy Stout and make lasting memories. Whether you're toasting to the holiday season or just enjoying.",
+            "price":10.00,
+            "image_url":"./images/trophystout.jpeg"
+        },
+        {
+            "id":2,
+            "name":"Budweiser",
+            "description":"Toast to holidays with Budweiser!, This holiday season celebrate with a glass of Budweiser. Our dark, full bodied beer is the perfect way to spread cheers and enjoy the festive season. With it's smooth flavor, Budweiser is sure to be a hit at any holiday gathering. Invite your friends and family to share a pint of Budweiser and make lasting memories. Whether you're toasting to the holiday season or just enjoying.",
+            "price":5.00,
+            "image_url":"./images/budwiser.jpg"
+        },
+        {
+            "id":3,
+            "name":"Trophy Lager",
+            "description":"Toast to holidays with Trophy Lager!, This holiday season celebrate with a glass of Trophy Lager. Our dark, full bodied beer is the perfect way to spread cheers and enjoy the festive season. With it's smooth flavor, Trophy Lager is sure to be a hit at any holiday gathering. Invite your friends and family to share a pint of Trophy Lager and make lasting memories. Whether you're toasting to the holiday season or just enjoying.",
+            "price":7.00,
+            "image_url":"./images/trophylager.jpg"
+        },
+        {
+            "id":4,
+            "name":"Hero",
+            "description":"Toast to holidays with Hero Lager!, This holiday season celebrate with a glass of Hero Lager. Our dark, full bodied beer is the perfect way to spread cheers and enjoy the festive season. With it's smooth flavor, Hero Lager is sure to be a hit at any holiday gathering. Invite your friends and family to share a pint of Hero Lager and make lasting memories. Whether you're toasting to the holiday season or just enjoying.",
+            "price":7.00,
+            "image_url":"./images/herolager.jpg"
+        },
+        {
+            "id":5,
+            "name":"Beta Malt",
+            "description":"Toast to holidays with Beta Malt!, This holiday season celebrate with a glass of Beta Malt. Our dark, full bodied beer is the perfect way to spread cheers and enjoy the festive season. With it's smooth flavor, Beta Malt is sure to be a hit at any holiday gathering. Invite your friends and family to share a pint of Beta Malt and make lasting memories. Whether you're toasting to the holiday season or just enjoying.",
+            "price":7.00,
+            "image_url":"./images/betamalt.jpg"
+        }
+
+
+    ]
+}
